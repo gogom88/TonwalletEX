@@ -5,7 +5,7 @@ class TonWalletExplorer {
     this.walletAddress = null;
     this.walletData = null;
     this.currentTab = 'history';
-    this.API_URL = 'https://tonwalletex.onrender.com';
+    this.API_URL = 'https://tonwalletex-backend.onrender.com';
     this.init();
   }
 
